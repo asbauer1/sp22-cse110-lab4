@@ -34,5 +34,11 @@
     
 15. == doesn't require same type to be true, while === does require the same type for it to return true
 
+16. Code is in the folder
+
 17. It would newArr which would be the values are returned multiplied by 2. I think this would be the case because the doSomething function is passing into the modifyArray call which then gets used in the callback function call with each element of the array, which then gets doubled and pushed onto the variable newArr. 
+
+18. Code is in the folder
+
+19. 1 4 3 2
 
